@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 ```
  ██████╗  █████╗ ███╗   ██╗███████╗███████╗██╗  ██╗
@@ -274,4 +274,132 @@ If something on this profile caught your eye — reach out. I respond fast.
 
 <div align="center">
 <sub>Built with Python, curiosity, and a lot of GPU hours · © 2026 Ganesh Gopu</sub>
-</div>
+</div> -->
+
+# 🌐 Source-Sphere
+
+> *Where ideas converge. Where code evolves.*
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+---
+
+## About Us
+
+**Source-Sphere** is a technology company dedicated to building innovative software solutions that push the boundaries of what's possible. We believe in the power of open collaboration, clean engineering, and purposeful design.
+
+Our mission is simple: **build tools that matter, ship software that lasts**.
+
+---
+
+## What We Do
+
+- 🔧 **Software Engineering** — Robust, scalable applications from the ground up
+- 🤖 **AI & Machine Learning** — Intelligent systems built for real-world impact
+- ☁️ **Cloud & Infrastructure** — Resilient, production-ready infrastructure at scale
+- 🎨 **Product & Design** — Thoughtful UX backed by engineering excellence
+
+---
+
+## Repository Structure
+
+```
+source-sphere/
+├── apps/           # Client-facing applications
+├── packages/       # Shared libraries and utilities
+├── services/       # Backend microservices
+├── infrastructure/ # IaC configs (Terraform, Helm, etc.)
+├── docs/           # Internal documentation
+└── scripts/        # Dev and CI/CD tooling
+```
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Git](https://git-scm.com/) `>= 2.40`
+- [Node.js](https://nodejs.org/) `>= 20.x` *(or relevant runtime for your service)*
+- [Docker](https://www.docker.com/) `>= 24.x`
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/source-sphere/<repo-name>.git
+
+# Navigate into the project
+cd <repo-name>
+
+# Install dependencies
+npm install
+
+# Copy environment variables
+cp .env.example .env
+
+# Start development server
+npm run dev
+```
+
+---
+
+## Contributing
+
+We welcome contributions from everyone — whether you're fixing a typo or shipping a feature.
+
+1. **Fork** the repository
+2. **Create** your feature branch: `git checkout -b feat/your-feature`
+3. **Commit** your changes: `git commit -m "feat: add your feature"`
+4. **Push** to your branch: `git push origin feat/your-feature`
+5. **Open** a Pull Request
+
+Please read our [Contributing Guide](CONTRIBUTING.md) and follow the [Code of Conduct](CODE_OF_CONDUCT.md) before submitting.
+
+---
+
+## Commit Convention
+
+We follow [Conventional Commits](https://www.conventionalcommits.org/):
+
+| Prefix | Purpose |
+|--------|---------|
+| `feat:` | New feature |
+| `fix:` | Bug fix |
+| `docs:` | Documentation only |
+| `chore:` | Maintenance tasks |
+| `refactor:` | Code restructure |
+| `test:` | Adding or updating tests |
+
+---
+
+## Code of Conduct
+
+Source-Sphere is committed to fostering a welcoming and inclusive environment. All contributors are expected to uphold our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+---
+
+## License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Connect With Us
+
+| Channel | Link |
+|---------|------|
+| 🌐 Website | [source-sphere.io](https://source-sphere.io) |
+| 🐦 Twitter / X | [@sourcesphere](https://twitter.com/sourcesphere) |
+| 💼 LinkedIn | [Source-Sphere](https://linkedin.com/company/source-sphere) |
+| 📬 Email | hello@source-sphere.io |
+
+---
+
+<p align="center">
+  Built with ❤️ by the <strong>Source-Sphere</strong> team
+</p>
