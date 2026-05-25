@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
 
 ```
  ██████╗  █████╗ ███╗   ██╗███████╗███████╗██╗  ██╗
@@ -274,9 +274,9 @@ If something on this profile caught your eye — reach out. I respond fast.
 
 <div align="center">
 <sub>Built with Python, curiosity, and a lot of GPU hours · © 2026 Ganesh Gopu</sub>
-</div> -->
+</div>
 
-# 🌐 Source-Sphere
+<!-- # 🌐 Source-Sphere
 
 > *Where ideas converge. Where code evolves.*
 
