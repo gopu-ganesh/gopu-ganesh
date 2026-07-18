@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 ```
  ██████╗  █████╗ ███╗   ██╗███████╗███████╗██╗  ██╗
@@ -402,4 +402,64 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <p align="center">
   Built with ❤️ by the <strong>Source-Sphere</strong> team
-</p>
+</p> -->
+# Ganesh Gopu
+
+<div align="center">
+
+# Software Engineer
+
+### AI Platforms • Backend Engineering • Distributed Systems • Cloud-Native Applications
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ganeshgopu.info-000000?style=for-the-badge&logo=vercel)](https://ganeshgopu.info)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ganeshgopu)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ganeshgopu)
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm a Software Engineer focused on building scalable backend systems, AI-powered platforms, and cloud-native applications.
+
+## 🛠 Tech Stack
+
+- Python • Java • TypeScript • JavaScript
+- FastAPI • Spring Boot • Spring Security
+- AWS • Docker • Kubernetes • ECS
+- PostgreSQL • MySQL • MongoDB
+- Kafka • CI/CD
+- LangChain • Hugging Face • RAG • Palantir AIP
+
+## 💼 Experience
+
+### Palantir Technologies
+- Built backend services with Python and FastAPI.
+- Integrated LLM workflows with Palantir AIP.
+- Developed applications using Foundry Ontology.
+
+### Accenture
+- Built enterprise Java applications.
+- Developed Spring Boot microservices.
+- Worked with Kafka, REST APIs, and cloud deployments.
+
+## 🚀 Featured Projects
+
+- Financial Intelligence Platform
+- Multi-LLM Agentic RAG System
+- Intelligent API Gateway
+- Coffee Operations Automation
+
+## 📜 Certifications
+
+- AWS Certified Solutions Architect – Associate
+- Prompt Engineering for Generative AI
+- Google Cloud Generative AI Fundamentals
+
+## 📫 Connect
+
+- Portfolio: https://ganeshgopu.info
+- LinkedIn: https://linkedin.com/in/ganeshgopu
+- Hugging Face: https://huggingface.co/ganeshgopu
+
